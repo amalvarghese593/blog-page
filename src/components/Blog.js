@@ -11,16 +11,13 @@ import img7 from "../images/img-07.png";
 export const Blog = () => {
   return (
     <div className="blog-wrapper">
-      <div className="blog-navbar">
+      {/* <div className="blog-navbar">
         <h2>Navbar goes here</h2>
-      </div>
+      </div> */}
       <div className="blog-container-wrapper">
         <div className="blog-container">
           <div className="blog-sub-container container1">
             <img className="welcome-img" src={img1} alt="no image" />
-            <div className="welcome">
-              <h4>WELCOME</h4>
-            </div>
             <p>
               <strong>F</strong>inding the right talent has never been easier.
               WebPipl is a digital platform that helps companies get best
@@ -69,7 +66,7 @@ export const Blog = () => {
                 enviable candidate pool for themselves. If you’re ready to start
                 your own freelance career or looking for additional ways to grow
                 your current one, get more tips by reading our blog post series
-                <strong>"Freelance Doesn't Mean Free."</strong>
+                "Freelance Doesn't Mean Free."
               </p>
             </div>
           </div>
@@ -100,15 +97,15 @@ export const Blog = () => {
               <p>
                 <strong>I</strong>magine you are a recruiter at an agency, and
                 your firm decides to take on a new client. You need someone who
-                can be the face of this company in 30 days or less -{" "}
-                <strong>not enough time for recruiting!</strong> But wait; what
-                if it was YOUR decision? Then there is no deadline pressure
-                because YOU get to choose how many requirements you want, so
-                that means when one needs more attention than others, they don't
-                go neglected. Plus as freelancer-recruiter now all jobs will
-                have equal importance since each person has their own special
-                niche within recruiting rather than having just 1 job title
-                which might seem only relevant during certain times in history.
+                can be the face of this company in 30 days or less - not enough
+                time for recruiting! But wait; what if it was YOUR decision?
+                Then there is no deadline pressure because YOU get to choose how
+                many requirements you want, so that means when one needs more
+                attention than others, they don't go neglected. Plus as
+                freelancer-recruiter now all jobs will have equal importance
+                since each person has their own special niche within recruiting
+                rather than having just 1 job title which might seem only
+                relevant during certain times in history.
               </p>
             </div>
           </div>
@@ -139,9 +136,9 @@ export const Blog = () => {
           </div>
         </div>
       </div>
-      <div className="blog-footer">
+      {/* <div className="blog-footer">
         <h2>footer goes here</h2>
-      </div>
+      </div> */}
     </div>
   );
 };
