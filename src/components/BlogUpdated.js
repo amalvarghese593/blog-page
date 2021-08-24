@@ -41,7 +41,7 @@ export const BlogUpdated = () => {
             <img className="img50 " src={img3} alt="no image" />
 
             <div>
-              <h2 className="my-3">Be On Your Own</h2>
+              <h2 className="my-3 text-center">Be On Your Own</h2>
               <div className="text-start">
                 <p className="px-lg-5 px-3  pb-5">
                   <strong>I</strong>f you want to be your own boss, there's
@@ -62,7 +62,7 @@ export const BlogUpdated = () => {
             <img className="img50 " src={img5} alt="no image" />
 
             <div>
-              <h2 className="my-3">Earn More</h2>
+              <h2 className="my-3 text-center">Earn More</h2>
               <div className="text-start">
                 <p className="px-lg-5 px-3  pb-5">
                   <strong>T</strong>he benefits of freelancing are not just
@@ -81,7 +81,7 @@ export const BlogUpdated = () => {
           <div className="blog-sub-container container4 border-bottom border-secondary">
             <img className="img700 pt-lg-5 mt-lg-5" src={img7} alt="no image" />
 
-            <h2 className="my-4">Work your Style</h2>
+            <h2 className="my-4 text-center">Work your Style</h2>
             <div className="text-start">
               <p className="px-lg-5 px-3  pb-5">
                 <strong>I</strong>f you are thinking about switching jobs, or if
@@ -103,7 +103,7 @@ export const BlogUpdated = () => {
             <img className="img50 " src={img2} alt="no image" width="500px" />
 
             <div>
-              <h2 className="my-3">Choose your Requirements</h2>
+              <h2 className="my-3 text-center">Choose your Requirements</h2>
               <div className="text-start">
                 <p className="px-lg-5 px-3  pb-5">
                   <strong>I</strong>magine you are a recruiter at an agency, and
@@ -125,7 +125,7 @@ export const BlogUpdated = () => {
             <img className="img50 " src={img6} alt="no image" width="500px" />
 
             <div>
-              <h2 className="mt-5 mb-3">Do it in your free time</h2>
+              <h2 className="mt-5 mb-3 text-center">Do it in your free time</h2>
               <div className="text-start">
                 <p className="px-lg-5 px-3  pb-5">
                   <strong>F</strong>reelance recruiting is a great way to
@@ -143,7 +143,7 @@ export const BlogUpdated = () => {
               width="500px"
             />
 
-            <h2 className="my-4">Ownership</h2>
+            <h2 className="my-4 text-center">Ownership</h2>
             <div className="text-start">
               <p className="px-lg-5 px-3  pb-5">
                 <strong>U</strong>nlike a lot of companies, you have the control
